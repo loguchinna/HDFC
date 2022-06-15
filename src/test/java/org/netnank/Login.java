@@ -30,4 +30,9 @@ public class Login extends BaseClass {
 		click(p.getCheckbox());
 
 	}
+	@Test
+	private void test1() {
+		System.out.println("New code");
+
+	}
 }
